@@ -1,3 +1,4 @@
+package trainreservation.domains.ticketoffice;
 
 public class ReservationRequest {
 	public final String trainId;

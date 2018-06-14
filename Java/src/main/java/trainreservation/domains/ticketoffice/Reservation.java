@@ -1,3 +1,5 @@
+package trainreservation.domains.ticketoffice;
+
 import java.util.List;
 
 public class Reservation {

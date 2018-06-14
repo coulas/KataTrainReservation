@@ -1,3 +1,4 @@
+package trainreservation.domains.ticketoffice;
 
 public class Seat {
     public final String coach;
